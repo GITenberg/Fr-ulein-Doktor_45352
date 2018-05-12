@@ -1,0 +1,30 @@
+_repo: Fr-ulein-Doktor_45352
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45352-h/images/cover_lehne_fraeulein_doktor.jpg
+creator:
+  author:
+    agent_name: Lehne, Fr.
+    aliases:
+    - Butenschön, Helene
+    - Butenschon, Helene
+    birthdate: 1874
+    deathdate: 1957
+    gutenberg_agent_id: '43239'
+    url: http://www.gutenberg.org/2009/agents/43239
+    wikipedia: http://de.wikipedia.org/wiki/Helene_Butensch%C3%B6n
+description: ''
+gutenberg_issued: '2014-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45352'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: 'Fräulein Doktor: Roman'
+url: http://www.gutenberg.org/ebooks/45352
